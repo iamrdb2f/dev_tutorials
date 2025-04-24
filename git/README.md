@@ -25,7 +25,7 @@ Ce guide présente les commandes Git essentielles pour gérer efficacement vos d
   git clone https://github.com/user/repo.git
 ```
 
-##Gestion des Fichiers
+## Gestion des Fichiers
 - **`git status`** : Affiche l'état des fichiers, y compris les modifications non validées.
 ```bash
   git status
